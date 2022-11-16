@@ -1,16 +1,15 @@
 ﻿@charset "utf-8";
-@import url('cw_layout.css');
+
 
 /*
    New Perspectives on HTML5 and CSS3, 8th Edition
-   Tutorial 2
-   Case Problem 2
+   School project
    
-   Civil War History Style Sheet
-   Author: Peter Craft
-   Date:   2021-03-01
+   Busy B's Style Sheet
+   Author: Becky Hupp
+   Date:   11/16/2022
    
-   Filename: cw_styles.css
+   Filename: styles.css
 
 */
 
@@ -91,7 +90,7 @@ nav#outline {
 	font-size: 0.8em;
 }
 
-nav#outline h1 {
+nav#outline h2 {
 	font-family: 'Corinthia', cursive;
 	font-size: 2em;
 	text-align: center;

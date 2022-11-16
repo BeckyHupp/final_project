@@ -2,11 +2,13 @@
 
 /*
    New Perspectives on HTML5 and CSS3, 8th Edition
-   Tutorial 2
-   Case Problem 2
+   School project
    
-   Civil War History
-   Filename: cw_layout.css
+   Busy B's Style Sheet
+   Author: Becky Hupp
+   Date:   11/16/2022
+   
+   Filename: layout.css
 
 */
 
@@ -66,6 +68,10 @@ body > section > aside {
 
 body > section > header > img {
 	width: 100%;
+}
+
+body > section > header > iframe {
+	display: block;
 }
 
 body > section > aside > img {
