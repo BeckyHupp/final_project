@@ -67,6 +67,7 @@ body > section > aside {
 }
 
 body > section > header > img {
+	display: block;
 	width: 100%;
 }
 

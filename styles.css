@@ -44,6 +44,11 @@ footer {
 	color: black;
 	padding: 1px 0;
 }
+.back {
+	background-image: url("pexels-jill-wellington.jpg");
+	background-repeat: no-repeat;
+}
+
 
 
 /* Body Header Styles */
@@ -139,7 +144,6 @@ article p:first-of-type::first-letter {
 	font-size: 2em;
 	vertical-align: baseline;
 }
-
 
 
 /* Aside Styles */
