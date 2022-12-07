@@ -66,6 +66,10 @@ body > section > aside {
 	margin-right: 4%;
 }
 
+body > section > header {
+	margin-left: 20px
+}
+
 body > section > header > img {
 	display: block;
 	width: 100%;

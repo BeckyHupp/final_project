@@ -140,11 +140,10 @@ article h2 {
 	font-size: 1.4em;
 }
 
-article p:first-of-type::first-letter {
-	font-size: 2em;
-	vertical-align: baseline;
+table.custPhotos cite {
+	font-family: 'Corinthia', cursive;
+	font-size: 1.5em;
 }
-
 
 /* Aside Styles */
 
@@ -157,3 +156,21 @@ aside h1 {
 	font-size: 1.4em;
 }
 
+/* Form Styles */
+
+form#survey legend {
+	font-family: 'Corinthia', cursive;
+	font-size: 2em;
+}
+
+form#survey div.formRow {
+	font-size: 1em;
+}
+
+/* Table Styles */
+
+table#custPhotos td {
+	horizontal-align: middle;
+	text-align: center;
+	vertical-align: middle;
+}
