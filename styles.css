@@ -170,7 +170,6 @@ form#survey div.formRow {
 /* Table Styles */
 
 table#custPhotos td {
-	horizontal-align: middle;
 	text-align: center;
 	vertical-align: middle;
 }
